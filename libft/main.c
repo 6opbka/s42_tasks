@@ -2,6 +2,6 @@
 #include "libft.h"
 
 int main(){
-    printf("hads");
-    return 0;
+    printf("%d \n",ft_isalpha('A'));
+    printf("%d \n",ft_isdigit('1'));
 }
